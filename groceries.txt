@@ -2,3 +2,4 @@
 6 shalloets
 1 fennel seed
 couple of seed potatoes
+ust checking vim editor from gti
