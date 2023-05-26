@@ -3,3 +3,6 @@
 1 fennel seed
 couple of seed potatoes
 ust checking vim editor from gti
+
+
+checking the vs code for gitbash
