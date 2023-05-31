@@ -6,3 +6,5 @@ ust checking vim editor from gti
 
 
 checking the vs code for gitbash
+
+adding the version-3 code after the into github after completeing the master branch
