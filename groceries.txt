@@ -6,3 +6,4 @@ ust checking vim editor from gti
 
 
 checking the vs code for gitbash
+just commiting after pushing the code in github

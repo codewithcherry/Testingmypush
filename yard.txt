@@ -7,3 +7,5 @@ just to check the vscode as default code editor for instead git
 
 
 just another commit in my version2 to check merging
+
+commiting the code after pushing the code base in github to practise the git hub push command
